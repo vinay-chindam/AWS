@@ -4,3 +4,17 @@ Serverless (in cloud computing) is a cloud architecture where you don’t manage
 The cloud provider automatically handles servers, scaling, and infrastructure, and you only write and deploy your code (functions or services).
 
 Even though the name says “serverless”, servers still exist, but you don’t manage them.
+
+Benefits
+
+✅ No server management
+✅ Automatic scaling
+✅ Pay only when used
+✅ Faster deployment
+
+Limitations
+
+❌ Cold start delay
+❌ Execution time limits
+❌ Harder debugging
+❌ Not ideal for long-running tasks
