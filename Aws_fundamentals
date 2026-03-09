@@ -1,1 +1,6 @@
 
+Serverless:
+Serverless (in cloud computing) is a cloud architecture where you don’t manage the server yourself.
+The cloud provider automatically handles servers, scaling, and infrastructure, and you only write and deploy your code (functions or services).
+
+Even though the name says “serverless”, servers still exist, but you don’t manage them.
